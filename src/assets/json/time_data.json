@@ -1,0 +1,693 @@
+[
+    {
+        "id": 1,
+        "time": "00:00",
+        "background": "white",
+        "isTopOfHour": true
+    },
+    {
+        "id": 2,
+        "time": "00:15",
+        "background": "#F5F5F5",
+        "isTopOfHour": false
+    },
+    {
+        "id": 3,
+        "time": "00:30",
+        "background": "white",
+        "isTopOfHour": false
+    },
+   
+    {
+        "id": 4,
+        "time": "00:45",
+        "background": "#F5F5F5",
+        "isTopOfHour": false
+    },
+    
+    {
+        "id": 5,
+        "time": "01:00",
+        "background": "white",
+        "isTopOfHour": true
+    },
+   
+    {
+        "id": 6,
+        "time": "01:15",
+        "background": "#F5F5F5",
+        "isTopOfHour": false
+    },
+   
+    {
+        "id": 7,
+        "time": "01:30",
+        "background": "white",
+        "isTopOfHour": false
+    },
+   
+    {
+        "id": 8,
+        "time": "01:45",
+        "background": "#F5F5F5",
+        "isTopOfHour": false
+    },
+   
+    {
+        "id": 9,
+        "time": "02:00",
+        "background": "white",
+        "isTopOfHour": true
+    },
+   
+    {
+        "id": 10,
+        "time": "02:15",
+        "background": "#F5F5F5",
+        "isTopOfHour": false
+    },
+   
+    {
+        "id": 11,
+        "time": "02:30",
+        "background": "white",
+        "isTopOfHour": false
+    },
+   
+    {
+        "id": 12,
+        "time": "02:45",
+        "background": "#F5F5F5",
+        "isTopOfHour": false
+    },
+  
+    {
+        "id": 13,
+        "time": "03:00",
+        "background": "white",
+        "isTopOfHour": true
+    },
+    
+    {
+        "id": 14,
+        "time": "03:15",
+        "background": "#F5F5F5",
+        "isTopOfHour": false
+    },
+   
+    {
+        "id": 15,
+        "time": "03:30",
+        "background": "white",
+        "isTopOfHour": false
+    },
+   
+    {
+        "id": 16,
+        "time": "03:45",
+        "background": "#F5F5F5",
+        "isTopOfHour": false
+    },
+   
+    {
+        "id": 17,
+        "time": "04:00",
+        "background": "white",
+        "isTopOfHour": true
+    },
+   
+    {
+        "id": 18,
+        "time": "04:15",
+        "background": "#F5F5F5",
+        "isTopOfHour": false
+    },
+    
+    {
+        "id": 19,
+        "time": "04:30",
+        "background": "white",
+        "isTopOfHour": false
+    },
+   
+    {
+        "id": 20,
+        "time": "04:45",
+        "background": "#F5F5F5",
+        "isTopOfHour": false
+    },
+   
+    {
+        "id": 21,
+        "time": "05:00",
+        "background": "white",
+        "isTopOfHour": true
+    },
+  
+    {
+        "id": 22,
+        "time": "05:15",
+        "background": "#F5F5F5",
+        "isTopOfHour": false
+    },
+
+    {
+        "id": 23,
+        "time": "05:30",
+        "background": "white",
+        "isTopOfHour": false
+    },
+    
+    {
+        "id": 24,
+        "time": "05:45",
+        "background": "#F5F5F5",
+        "isTopOfHour": false
+    },
+   
+    {
+        "id": 25,
+        "time": "06:00",
+        "background": "white",
+        "isTopOfHour": true
+    },
+   
+    {
+        "id": 26,
+        "time": "06:15",
+        "background": "#F5F5F5",
+        "isTopOfHour": false
+    },
+   
+    {
+        "id": 27,
+        "time": "06:30",
+        "background": "white",
+        "isTopOfHour": false
+    },
+    
+    {
+        "id": 28,
+        "time": "06:45",
+        "background": "#F5F5F5",
+        "isTopOfHour": false
+    },
+   
+    {
+        "id": 29,
+        "time": "07:00",
+        "background": "white",
+        "isTopOfHour": true
+    },
+   
+    {
+        "id": 30,
+        "time": "07:15",
+        "background": "#F5F5F5",
+        "isTopOfHour": false
+    },
+   
+    {
+        "id": 31,
+        "time": "07:30",
+        "background": "white",
+        "isTopOfHour": false
+    },
+   
+    {
+        "id": 32,
+        "time": "07:45",
+        "background": "#F5F5F5",
+        "isTopOfHour": false
+    },
+    
+    {
+        "id": 33,
+        "time": "08:00",
+        "background": "white",
+        "isTopOfHour": true
+    },
+    
+    {
+        "id": 34,
+        "time": "08:15",
+        "background": "#F5F5F5",
+        "isTopOfHour": false
+    },
+   
+    {
+        "id": 35,
+        "time": "08:30",
+        "background": "white",
+        "isTopOfHour": false
+    },
+    
+    {
+        "id": 36,
+        "time": "08:45",
+        "background": "#F5F5F5",
+        "isTopOfHour": false
+    },
+    
+    {
+        "id": 37,
+        "time": "09:00",
+        "background": "white",
+        "isTopOfHour": true
+    },
+    
+    {
+        "id": 38,
+        "time": "09:15",
+        "background": "#F5F5F5",
+        "isTopOfHour": false
+    },
+    
+    {
+        "id": 39,
+        "time": "09:30",
+        "background": "white",
+        "isTopOfHour": false
+    },
+   
+    {
+        "id": 40,
+        "time": "09:45",
+        "background": "#F5F5F5",
+        "isTopOfHour": false
+    },
+   
+    {
+        "id": 41,
+        "time": "10:00",
+        "background": "white",
+        "isTopOfHour": true
+    },
+   
+    {
+        "id": 42,
+        "time": "10:15",
+        "background": "#F5F5F5",
+        "isTopOfHour": false
+    },
+   
+    {
+        "id": 43,
+        "time": "10:30",
+        "background": "white",
+        "isTopOfHour": false
+    },
+   
+    {
+        "id": 44,
+        "time": "10:45",
+        "background": "#F5F5F5",
+        "isTopOfHour": false
+    },
+    {
+    
+        "id": 45,
+        "time": "11:00",
+        "background": "white",
+        "isTopOfHour": true
+    },
+   
+    {
+        "id": 46,
+        "time": "11:15",
+        "background": "#F5F5F5",
+        "isTopOfHour": false
+    },
+    
+    {
+        "id": 47,
+        "time": "11:30",
+        "background": "white",
+        "isTopOfHour": false
+    },
+    
+    {
+        "id": 48,
+        "time": "11:45",
+        "background": "#F5F5F5",
+        "isTopOfHour": false
+    },
+   
+    {
+        "id": 49,
+        "time": "12:00",
+        "background": "white",
+        "isTopOfHour": true
+    },
+   
+    {
+        "id": 50,
+        "time": "12:15",
+        "background": "#F5F5F5",
+        "isTopOfHour": false
+    },
+   
+    {
+        "id": 51,
+        "time": "12:30",
+        "background": "white",
+        "isTopOfHour": false
+    },
+
+    {
+        "id": 52,
+        "time": "12:45",
+        "background": "#F5F5F5",
+        "isTopOfHour": false
+    },
+
+    {
+        "id": 53,
+        "time": "13:00",
+        "background": "white",
+        "isTopOfHour": true
+    },
+   
+    {
+        "id": 54,
+        "time": "13:15",
+        "background": "#F5F5F5",
+        "isTopOfHour": false
+    },
+   
+   
+    {
+        "id": 55,
+        "time": "13:30",
+        "background": "white",
+        "isTopOfHour": false
+    },
+
+    {
+        "id": 56,
+        "time": "13:45",
+        "background": "#F5F5F5",
+        "isTopOfHour": false
+    },
+    
+   
+    {
+        "id": 57,
+        "time": "14:00",
+        "background": "white",
+        "isTopOfHour": true
+    },
+   
+    {
+        "id": 58,
+        "time": "14:15",
+        "background": "#F5F5F5",
+        "isTopOfHour": false
+    },
+   
+   
+    {
+        "id": 59,
+        "time": "14:30",
+        "background": "white",
+        "isTopOfHour": false
+    },
+
+    {
+        "id": 60,
+        "time": "14:45",
+        "background": "#F5F5F5",
+        "isTopOfHour": false
+    },
+    
+   
+    {
+        "id": 61,
+        "time": "15:00",
+        "background": "white",
+        "isTopOfHour": true
+    },
+   
+    {
+        "id": 62,
+        "time": "15:15",
+        "background": "#F5F5F5",
+        "isTopOfHour": false
+    },
+   
+   
+    {
+        "id": 63,
+        "time": "15:30",
+        "background": "white",
+        "isTopOfHour": false
+    },
+
+    {
+        "id": 64,
+        "time": "15:45",
+        "background": "#F5F5F5",
+        "isTopOfHour": false
+    },
+    
+   
+    {
+        "id": 65,
+        "time": "16:00",
+        "background": "white",
+        "isTopOfHour": true
+    },
+   
+    {
+        "id": 66,
+        "time": "16:15",
+        "background": "#F5F5F5",
+        "isTopOfHour": false
+    },
+   
+   
+    {
+        "id": 67,
+        "time": "16:30",
+        "background": "white",
+        "isTopOfHour": false
+    },
+
+    {
+        "id": 68,
+        "time": "16:45",
+        "background": "#F5F5F5",
+        "isTopOfHour": false
+    },
+    
+   
+    {
+        "id": 69,
+        "time": "17:00",
+        "background": "white",
+        "isTopOfHour": true
+    },
+   
+    {
+        "id": 70,
+        "time": "17:15",
+        "background": "#F5F5F5",
+        "isTopOfHour": false
+    },
+   
+   
+    {
+        "id": 71,
+        "time": "17:30",
+        "background": "white",
+        "isTopOfHour": false
+    },
+
+    {
+        "id": 72,
+        "time": "17:45",
+        "background": "#F5F5F5",
+        "isTopOfHour": false
+    },
+    
+   
+    {
+        "id": 73,
+        "time": "18:00",
+        "background": "white",
+        "isTopOfHour": true
+    },
+   
+    {
+        "id": 74,
+        "time": "18:15",
+        "background": "#F5F5F5",
+        "isTopOfHour": false
+    },
+   
+   
+    {
+        "id": 75,
+        "time": "18:30",
+        "background": "white",
+        "isTopOfHour": false
+    },
+
+    {
+        "id": 76,
+        "time": "18:45",
+        "background": "#F5F5F5",
+        "isTopOfHour": false
+    },
+    
+   
+    {
+        "id": 77,
+        "time": "19:00",
+        "background": "white",
+        "isTopOfHour": true
+    },
+   
+    {
+        "id": 78,
+        "time": "19:15",
+        "background": "#F5F5F5",
+        "isTopOfHour": false
+    },
+   
+   
+    {
+        "id": 79,
+        "time": "19:30",
+        "background": "white",
+        "isTopOfHour": false
+    },
+
+    {
+        "id": 80,
+        "time": "19:45",
+        "background": "#F5F5F5",
+        "isTopOfHour": false
+    },
+    
+   
+    {
+        "id": 81,
+        "time": "20:00",
+        "background": "white",
+        "isTopOfHour": true
+    },
+   
+    {
+        "id": 82,
+        "time": "20:15",
+        "background": "#F5F5F5",
+        "isTopOfHour": false
+    },
+   
+   
+    {
+        "id": 83,
+        "time": "20:30",
+        "background": "white",
+        "isTopOfHour": false
+    },
+
+    {
+        "id": 84,
+        "time": "20:45",
+        "background": "#F5F5F5",
+        "isTopOfHour": false
+    },
+    
+   
+    {
+        "id": 85,
+        "time": "21:00",
+        "background": "white",
+        "isTopOfHour": true
+    },
+   
+    {
+        "id": 86,
+        "time": "21:15",
+        "background": "#F5F5F5",
+        "isTopOfHour": false
+    },
+   
+   
+    {
+        "id": 87,
+        "time": "21:30",
+        "background": "white",
+        "isTopOfHour": false
+    },
+
+    {
+        "id": 88,
+        "time": "21:45",
+        "background": "#F5F5F5",
+        "isTopOfHour": false
+    },
+    
+   
+    {
+        "id": 89,
+        "time": "22:00",
+        "background": "white",
+        "isTopOfHour": true
+    },
+   
+    {
+        "id": 90,
+        "time": "22:15",
+        "background": "#F5F5F5",
+        "isTopOfHour": false
+    },
+   
+   
+    {
+        "id": 91,
+        "time": "22:30",
+        "background": "white",
+        "isTopOfHour": false
+    },
+
+    {
+        "id": 92,
+        "time": "22:45",
+        "background": "#F5F5F5",
+        "isTopOfHour": false
+    },
+    
+   
+    {
+        "id": 93,
+        "time": "23:00",
+        "background": "white",
+        "isTopOfHour": true
+    },
+   
+    {
+        "id": 94,
+        "time": "23:15",
+        "background": "#F5F5F5",
+        "isTopOfHour": false
+    },
+   
+   
+    {
+        "id": 95,
+        "time": "23:30",
+        "background": "white",
+        "isTopOfHour": false
+    },
+
+    {
+        "id": 96,
+        "time": "23:45",
+        "background": "#F5F5F5",
+        "isTopOfHour": false
+    }
+    
+   ]
